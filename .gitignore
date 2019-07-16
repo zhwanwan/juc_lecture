@@ -1,0 +1,15 @@
+.idea
+*.iml
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.classpath
+.project
+.settings
+logs/
+.gradle/
+build/
+out/
