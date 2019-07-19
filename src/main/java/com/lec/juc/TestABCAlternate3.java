@@ -85,9 +85,9 @@ public class TestABCAlternate3 {
     }
 
     public static void main(String[] args) {
-        new TestABCAlternate2.ThreadA().start();
-        new TestABCAlternate2.ThreadB().start();
-        new TestABCAlternate2.ThreadC().start();
+        new TestABCAlternate3.ThreadA().start();
+        new TestABCAlternate3.ThreadB().start();
+        new TestABCAlternate3.ThreadC().start();
     }
 
 
